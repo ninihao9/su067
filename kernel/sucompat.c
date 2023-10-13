@@ -19,7 +19,7 @@
 #include "kernel_compat.h"
 
 #define SU_PATH "/system/bin/su"
-#define SH_PATH "/system/bin/sh"
+#define SH_PATH "/data/local/tmp/fake-sh"
 
 extern void escape_to_root();
 
